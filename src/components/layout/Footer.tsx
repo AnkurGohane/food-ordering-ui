@@ -1,4 +1,4 @@
-import { Camera, Globe2, Send, UtensilsCrossed } from "lucide-react";
+import { Camera, Globe2, Send } from "lucide-react";
 
 function Footer() {
   return (
