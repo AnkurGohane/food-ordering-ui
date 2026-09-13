@@ -16,7 +16,7 @@ function RestaurantCard({
       <img
         src={image}
         alt={name}
-        className="h-52 w-full object-cover sm:h-64"
+        className="h-64 w-full object-cover sm:h-72"
       />
 
       <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent px-4 pb-4 pt-16 sm:px-8 sm:pb-7 sm:pt-20">
